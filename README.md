@@ -1,6 +1,6 @@
 # windows10-map-on-boot
 
-1. Download the zip of this repo & extract it.
+1. Download the zip of this repo & extract it. (https://i.imgur.com/SziKXsj.png)
 
 1. Open the Group Policy Editor by searching `Edit Group Policy` in the Start Menu (https://i.imgur.com/r1VGshP.png)
    1. Navigate to `Computer Configuration > Administrative Templates > System > Logon`
